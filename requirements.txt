@@ -1,0 +1,8 @@
+gitpython
+sentence-transformers
+faiss-cpu
+tqdm
+python-magic
+fastapi
+uvicorn
+requests
