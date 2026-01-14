@@ -6,7 +6,7 @@ Runs locally to keep your code private. "Chat with your codebase" without data l
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 - **Frontend**: VS Code Extension (TypeScript)
 - **Backend**: FastAPI Server (Python)
@@ -14,7 +14,7 @@ Runs locally to keep your code private. "Chat with your codebase" without data l
 
 ---
 
-## ✅ What I Have Built
+##  What I Have Built
 
 - **Hybrid RAG Pipeline**: Combines vector search, keyword fallback, and cross-encoder re-ranking for high precision.
 - **Smart Context**: Automatically injects your active file and folder summaries into the prompt.
@@ -24,7 +24,7 @@ Runs locally to keep your code private. "Chat with your codebase" without data l
 
 ---
 
-## 🚧 What's Missing (Roadmap)
+##  What's Missing 
 
 - **Real-Time Indexing**: Index is static; requires manual re-run to capture code changes.
 - **Multi-Turn Conversation**: Currently supports single-turn QA only.
